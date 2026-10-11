@@ -8,3 +8,4 @@ Kumpulan catatan belajar Machine Learning, Deep Learning, AI, dan topik teknolog
 - `Deep-Learning/` — neural network, Transformer
 - `AI/` — topik AI umum
 - `Other/` — Data Science dan topik lain
+- `PrakPem/` — Praktikum Pemrograman (C++): materi P1–8, soal latihan UTS
