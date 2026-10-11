@@ -9,3 +9,4 @@ Kumpulan catatan belajar Machine Learning, Deep Learning, AI, dan topik teknolog
 - `AI/` — topik AI umum
 - `Other/` — Data Science dan topik lain
 - `PrakPem/` — Praktikum Pemrograman (C++): materi P1–8, soal latihan UTS
+- `AlPro/` — Algoritma Pemrograman (pseudocode/flowchart): materi P1–8, soal latihan UTS
