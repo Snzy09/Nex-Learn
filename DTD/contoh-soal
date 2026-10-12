@@ -15,7 +15,7 @@ Bobot: Esai 40% (5 × 8) · PG 60% (40 × 1,5)
 Jelaskan pengertian **transformasi digital**, lalu sebutkan **tiga tahap** transformasi digital **secara berurutan** dengan satu contoh untuk masing-masing tahap. Setelah itu jelaskan isi **arsitektur Von Neumann** dan mengapa konsep tersebut penting bagi komputer modern.
 
 ## Esai 2 (P2)
-(a) Ubah bilangan desimal **45** menjadi biner — **tunjukkan langkah pembagiannya**. (b) Ubah bilangan biner **101101** menjadi desimal. (c) Lengkapi tabel kebenaran untuk **A = 1, B = 1**: tentukan hasil **AND, OR, NOT A, dan XOR**.
+(a) Ubah bilangan desimal **45** menjadi biner — **tunjukkan langkah pembagiannya**. (b) Ubah bilangan biner **101101** menjadi desimal. (c) Lengkapi tabel kebnaran untuk **A = 1, B = 1**: tentukan hasil **AND, OR, NOT A, dan XOR**.
 
 ## Esai 3 (P3)
 (a) Jelaskan **alur perjalanan data** ketika kamu mengakses sebuah website — dari mengetik alamat sampai halaman tampil. Sebutkan peran **DNS, TCP, dan IP**. (b) Jelaskan **perbedaan SQL dan NoSQL**, serta kapan sebaiknya memakai masing-masing.
