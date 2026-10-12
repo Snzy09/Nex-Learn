@@ -1,0 +1,431 @@
+# Soal Latihan UTS — Dasar Teknologi Digital (DTD)
+
+Kode MK: WI25-00002 · 2 SKS · ITERA · Gasal 2026/2027
+Cakupan: **Pertemuan 1–7** (materi UTS) · Durasi saran: 90 menit
+Bobot: Esai 40% (5 × 8) · PG 60% (40 × 1,5)
+
+> Soal **buatan** (bukan soal resmi dosen), disusun dari deck P1–7 untuk latihan mandiri.
+> Kunci & pembahasan ada di bagian bawah — **jangan dibaca dulu** sebelum mengerjakan.
+
+--- 
+
+# BAGIAN A — ESAI (5 soal)
+
+## Esai 1 (P1)
+Jelaskan pengertian **transformasi digital**, lalu sebutkan **tiga tahap** transformasi digital **secara berurutan** dengan satu contoh untuk masing-masing tahap. Setelah itu jelaskan isi **arsitektur Von Neumann** dan mengapa konsep tersebut penting bagi komputer modern.
+
+## Esai 2 (P2)
+(a) Ubah bilangan desimal **45** menjadi biner — **tunjukkan langkah pembagiannya**. (b) Ubah bilangan biner **101101** menjadi desimal. (c) Lengkapi tabel kebnaran untuk **A = 1, B = 1**: tentukan hasil **AND, OR, NOT A, dan XOR**.
+
+## Esai 3 (P3)
+(a) Jelaskan **alur perjalanan data** ketika kamu mengakses sebuah website — dari mengetik alamat sampai halaman tampil. Sebutkan peran **DNS, TCP, dan IP**. (b) Jelaskan **perbedaan SQL dan NoSQL**, serta kapan sebaiknya memakai masing-masing.
+
+## Esai 4 (P5)
+(a) Sebutkan dan jelaskan **3 jenis malware**. (b) Jelaskan apa itu **social engineering** dan sebutkan **3 tekniknya**. (c) Jelaskan aturan **backup 3-2-1** dan mengapa **authenticator app lebih aman** daripada kode OTP via SMS.
+
+## Esai 5 (P4 + P6)
+(a) Jelaskan akronim **THINK** dalam etika digital. (b) Sebutkan **4 hak digital** dan **4 kewajiban digital**. (c) Jelaskan perbedaan **AI dan Machine Learning**, lalu jelaskan perbedaan **Industry 4.0 dan Industry 5.0**.
+
+---
+
+# BAGIAN B — PILIHAN GANDA (40 soal)
+
+**1.** Yang dimaksud dengan transformasi digital adalah…
+A. Mengganti komputer lama dengan komputer yang baru
+B. Memindahkan semua dokumen ke dalam bentuk PDF
+C. Integrasi teknologi digital ke semua aspek kehidupan, termasuk mindset, proses, dan budaya
+D. Membeli perangkat digital terbaru agar tidak ketinggalan
+
+**2.** Urutan tiga tahap transformasi digital yang benar adalah…
+A. Digitalisasi → Digitisasi → Transformasi Digital
+B. Digitisasi → Digitalisasi → Transformasi Digital
+C. Transformasi Digital → Digitisasi → Digitalisasi
+D. Digitisasi → Transformasi Digital → Digitalisasi
+
+**3.** Pengiriman surat pos yang kini digantikan oleh email merupakan contoh dari…
+A. Digitisasi
+B. Transformasi digital
+C. Cloud computing
+D. Digitalisasi
+
+**4.** Konsep *stored program* — di mana program disimpan di memori bersama data — diperkenalkan oleh…
+A. John von Neumann
+B. Alan Turing
+C. Charles Babbage
+D. Bill Gates
+
+**5.** Manakah yang **BUKAN** bagian dari CPU?
+A. ALU
+B. Control Unit
+C. RAM
+D. Register
+
+**6.** Sensor yang digunakan untuk mendeteksi intensitas cahaya adalah…
+A. DHT11
+B. LDR
+C. PIR
+D. Ultrasonik
+
+**7.** Urutan lapisan komputer dari bawah ke atas yang benar adalah…
+A. Aplikasi → Sistem Operasi → Hardware → Pengguna
+B. Hardware → Aplikasi → Sistem Operasi → Pengguna
+C. Sistem Operasi → Hardware → Aplikasi → Pengguna
+D. Hardware → Sistem Operasi → Aplikasi → Pengguna
+
+**8.** Alasan utama komputer modern menggunakan sistem biner adalah…
+A. Transistor hanya memiliki dua kondisi, yaitu ON (1) dan OFF (0)
+B. Biner lebih mudah dipelajari oleh manusia
+C. Biner dapat menghasilkan angka yang lebih besar
+D. Komputer hanya mampu menyimpan dua file
+
+**9.** Bilangan biner **1101** sama dengan bilangan desimal…
+A. 11
+B. 12
+C. 13
+D. 14
+
+**10.** Bilangan desimal **22** jika diubah ke biner menjadi…
+A. 10100
+B. 10110
+C. 11010
+D. 10011
+
+**11.** Bilangan biner **1111** sama dengan bilangan desimal…
+A. 12
+B. 13
+C. 14
+D. 15
+
+**12.** Huruf "A" dalam kode ASCII biner direpresentasikan sebagai…
+A. 01000001
+B. 01000010
+C. 10000001
+D. 00100001
+
+**13.** 1 kilobyte (KB) sama dengan…
+A. 1.000 byte
+B. 1.000 bit
+C. 1.024 byte
+D. 1.024 bit
+
+**14.** Gerbang logika yang menghasilkan output 1 **hanya jika semua** input bernilai 1 adalah…
+A. OR
+B. AND
+C. NOT
+D. XOR
+
+**15.** Gerbang XOR dengan kedua input bernilai **1** akan menghasilkan output…
+A. 1
+B. 0 dan 1
+C. Tidak terdefinisi
+D. 0
+
+**16.** Protokol standar yang menghubungkan seluruh jaringan internet adalah…
+A. HTTP
+B. TCP/IP
+C. FTP
+D. SMTP
+
+**17.** Fungsi utama dari DNS adalah…
+A. Mengubah nama domain menjadi IP address
+B. Mengenkripsi data yang dikirim
+C. Membagi data menjadi paket-paket
+D. Menyimpan halaman web di server
+
+**18.** Teknologi web yang bertanggung jawab atas **tampilan/desain** halaman adalah…
+A. HTML
+B. JavaScript
+C. CSS
+D. SQL
+
+**19.** Manakah yang termasuk database **NoSQL**?
+A. MySQL
+B. PostgreSQL
+C. Oracle
+D. MongoDB
+
+**20.** Manakah yang termasuk layanan **cloud storage** (bukan cloud computing)?
+A. Google Drive
+B. Google Docs
+C. Zoom
+D. Canva
+
+**21.** Saat dikirim melalui internet, data dipecah menjadi…
+A. Satu file utuh
+B. Blok terenkripsi
+C. Paket-paket kecil
+D. Cache sementara
+
+**22.** Menurut materi, hoaks menyebar di media sosial sekitar berapa kali lebih cepat dibanding informasi yang benar?
+A. 2 kali
+B. 6 kali
+C. 10 kali
+D. 20 kali
+
+**23.** Aplikasi seperti Moodle dan Google Classroom termasuk kategori…
+A. LMS
+B. CMS
+C. ERP
+D. CRM
+
+**24.** Layanan e-government Indonesia untuk **pelaporan pengaduan masyarakat** adalah…
+A. Dukcapil Online
+B. LPSE
+C. e-Filing DJP
+D. LAPOR!/SP4N
+
+**25.** Konsep THINK dalam etika digital **tidak** mencakup…
+A. True
+B. Helpful
+C. Trendy
+D. Kind
+
+**26.** Manakah yang termasuk **kewajiban** digital?
+A. Mendapat akses internet yang setara
+B. Menghargai kekayaan intelektual (HAKI)
+C. Memperoleh kebebasan berekspresi online
+D. Mendapatkan privasi dan perlindungan data
+
+**27.** Dalam komunikasi digital, menulis pesan dengan HURUF KAPITAL SEMUA dianggap…
+A. Sopan
+B. Formal
+C. Efisien
+D. Berteriak
+
+**28.** Angka "36.5" sebelum diberi konteks apa pun disebut…
+A. Informasi
+B. Data
+C. Pengetahuan
+D. Big data
+
+**29.** "Suhu tubuh pasien A adalah 36,5°C" merupakan contoh dari…
+A. Informasi
+B. Data
+C. Pengetahuan
+D. Metadata
+
+**30.** Tiga komponen Big Data (3V) adalah…
+A. Volume, Value, Velocity
+B. Volume, Variety, Vision
+C. Volume, Velocity, Variety
+D. Velocity, Variety, Veracity
+
+**31.** Malware yang mengenkripsi file korban lalu meminta tebusan adalah…
+A. Virus
+B. Worm
+C. Spyware
+D. Ransomware
+
+**32.** Malware yang dapat menyebar sendiri melalui jaringan **tanpa** file inang adalah…
+A. Worm
+B. Virus
+C. Trojan
+D. Spyware
+
+**33.** Teknik social engineering yang menggunakan **skenario palsu** (misalnya mengaku dari bank) disebut…
+A. Baiting
+B. Pretexting
+C. Tailgating
+D. Phishing
+
+**34.** Aturan backup **3-2-1** berarti…
+A. 3 backup, 2 server, 1 password
+B. 3 hari, 2 minggu, 1 bulan
+C. 3 salinan data, 2 jenis media berbeda, 1 salinan di luar lokasi
+D. 3 user, 2 admin, 1 root
+
+**35.** Faktor autentikasi 2FA yang dinilai lebih aman daripada kode OTP via SMS adalah…
+A. Email
+B. Pertanyaan keamanan
+C. PIN
+D. Authenticator app
+
+**36.** Perbedaan utama AI dan Machine Learning adalah…
+A. AI lebih murah dibandingkan ML
+B. ML adalah subset AI yang belajar dari data tanpa diprogram secara eksplisit
+C. AI hanya untuk gambar, ML hanya untuk teks
+D. Keduanya sama persis
+
+**37.** Cabang AI yang membuat mesin memahami bahasa manusia disebut…
+A. NLP
+B. Computer Vision
+C. Fuzzy Logic
+D. Robotika
+
+**38.** Karakteristik utama Industry 5.0 adalah…
+A. Otomatisasi penuh tanpa keterlibatan manusia
+B. Fokus utama pada efisiensi produksi
+C. Sama persis dengan Industry 4.0
+D. Kolaborasi manusia dengan mesin (human-centric)
+
+**39.** Prinsip 3R dalam pengelolaan e-waste adalah…
+A. Reduce, Reuse, Recycle
+B. Read, Run, Repeat
+C. Repair, Reboot, Restore
+D. Reduce, Remove, Reformat
+
+**40.** Yang dimaksud dengan MVP (Minimum Viable Product) adalah…
+A. Produk paling mahal yang dimiliki startup
+B. Produk akhir yang sudah siap rilis penuh
+C. Produk minimal yang bisa diuji ke pasar dengan cepat
+D. Nama perusahaan rintisan
+
+---
+
+# 🔑 KUNCI JAWABAN — PILIHAN GANDA
+
+| No | Jwb | No | Jwb | No | Jwb | No | Jwb |
+|---|---|---|---|---|---|---|---|
+| 1 | C | 11 | D | 21 | C | 31 | D |
+| 2 | B | 12 | A | 22 | B | 32 | A |
+| 3 | D | 13 | C | 23 | A | 33 | B |
+| 4 | A | 14 | B | 24 | D | 34 | C |
+| 5 | C | 15 | D | 25 | C | 35 | D |
+| 6 | B | 16 | B | 26 | B | 36 | B |
+| 7 | D | 17 | A | 27 | D | 37 | A |
+| 8 | A | 18 | C | 28 | B | 38 | D |
+| 9 | C | 19 | D | 29 | A | 39 | A |
+| 10 | B | 20 | A | 30 | C | 40 | C |
+
+**Distribusi jawaban:** A = 10 · B = 10 · C = 10 · D = 10 (seimbang — tidak ada pola yang bisa ditebak).
+
+---
+
+# 📝 PEMBAHASAN — PILIHAN GANDA
+
+**1. C** — Transformasi digital = integrasi teknologi ke *semua* aspek (mindset, proses, budaya), bukan sekadar ganti alat.
+
+**2. B** — Urutannya: **Digitisasi → Digitalisasi → Transformasi Digital**. Tidak boleh dibalik.
+
+**3. D** — Surat pos → email = mengubah **proses** manual jadi digital → **Digitalisasi**. (Kalau foto kertas di-scan = digitisasi; ojek pangkalan → Gojek = transformasi digital.)
+
+**4. A** — **John von Neumann** (1945), konsep *stored program*.
+
+**5. C** — **RAM** adalah memori, bukan bagian CPU. CPU terdiri dari ALU, Control Unit, dan register.
+
+**6. B** — **LDR** = Light Dependent Resistor (cahaya). DHT11 = suhu, PIR = gerakan, ultrasonik = jarak.
+
+**7. D** — **Hardware → OS → Aplikasi → Pengguna**. Tiap lapisan bergantung pada lapisan di bawahnya.
+
+**8. A** — Transistor hanya punya dua kondisi (ON/OFF); sinyal dua level lebih stabil terhadap noise.
+
+**9. C** — 1101₂ = 1×8 + 1×4 + 0×2 + 1×1 = **13**.
+
+**10. B** — 22 = 16 + 4 + 2 → **10110₂**. (Cek: 16+0+4+2+0 = 22.)
+
+**11. D** — 1111₂ = 8+4+2+1 = **15**.
+
+**12. A** — "A" = **01000001**. (Cek: 64+1 = 65 = kode ASCII huruf "A".)
+
+**13. C** — 1 KB = **1.024 byte** (kelipatan 1.024, bukan 1.000).
+
+**14. B** — **AND**: output 1 hanya jika semua input 1.
+
+**15. D** — **XOR** = 1 jika input **berbeda**. Karena keduanya sama (1 dan 1) → output **0**.
+
+**16. B** — **TCP/IP** adalah protokol standar jaringan internet.
+
+**17. A** — **DNS** menerjemahkan nama domain → IP address (analogi "buku telepon internet").
+
+**18. C** — **CSS** = tampilan/presentasi. HTML = struktur, JavaScript = interaktivitas.
+
+**19. D** — **MongoDB** = NoSQL (dokumen, skema fleksibel). MySQL/PostgreSQL/Oracle = SQL relasional.
+
+**20. A** — **Google Drive** = cloud *storage*. Google Docs, Zoom, Canva = cloud *computing*.
+
+**21. C** — Data dipecah menjadi **paket-paket kecil** berheader, bisa lewat jalur berbeda, disusun ulang oleh TCP.
+
+**22. B** — Hoaks menyebar sekitar **6 kali** lebih cepat.
+
+**23. A** — **LMS** (Learning Management System).
+
+**24. D** — **LAPOR!/SP4N** untuk pengaduan masyarakat. (Dukcapil = kependudukan, LPSE = pengadaan, e-Filing = pajak.)
+
+**25. C** — THINK = True, Helpful, Inspiring, Necessary, Kind. **"Trendy" bukan bagiannya.**
+
+**26. B** — Menghargai HAKI = **kewajiban**. Opsi A, C, D = hak digital.
+
+**27. D** — HURUF KAPITAL SEMUA dianggap **berteriak** (tidak sopan).
+
+**28. B** — "36.5" tanpa konteks = **data** (fakta mentah).
+
+**29. A** — "Suhu pasien A 36,5°C" = data + konteks = **informasi**.
+
+**30. C** — 3V = **Volume, Velocity, Variety**. (Review P7 menambah Veracity → 4V.)
+
+**31. D** — **Ransomware** = enkripsi + minta tebusan.
+
+**32. A** — **Worm** menyebar otomatis via jaringan tanpa file inang. (Virus butuh file inang.)
+
+**33. B** — **Pretexting** = skenario palsu. Baiting = umpan, Tailgating = menyusup fisik.
+
+**34. C** — 3 salinan · 2 media berbeda · 1 salinan offsite.
+
+**35. D** — **Authenticator app** lebih aman karena tidak bisa dicegat lewat SIM-swap seperti SMS.
+
+**36. B** — **ML adalah subset AI**; sistem belajar dari data tanpa diprogram eksplisit.
+
+**37. A** — **NLP** (Natural Language Processing).
+
+**38. D** — Industry 5.0 = kolaborasi manusia–mesin (**cobot**), human-centric & berkelanjutan.
+
+**39. A** — 3R = **Reduce, Reuse, Recycle**.
+
+**40. C** — MVP = produk minimal yang bisa diuji ke pasar dengan cepat.
+
+---
+
+# ✅ KUNCI & RUBRIK — ESAI
+
+## Esai 1 (P1) — 8 poin
+- **Transformasi digital** = integrasi teknologi digital ke semua aspek kehidupan; bukan hanya alat, tapi juga mindset, proses, dan budaya. **(2)**
+- **Tiga tahap (1 poin tiap tahap + contoh):**
+  1. **Digitisasi** — analog → digital (foto kertas → scan JPG) **(2)**
+  2. **Digitalisasi** — proses manual → digital (surat pos → email) **(2)**
+  3. **Transformasi Digital** — menyeluruh, model bisnis & budaya (ojek pangkalan → Gojek) **(2)**
+- **Von Neumann:** konsep *stored program* — program disimpan di memori bersama data; alur Input → CPU (ALU + Control Unit) → Memory → Output; menjadi fondasi semua komputer modern. **(2)**
+
+## Esai 2 (P2) — 8 poin
+- (a) 45₁₀ = **101101₂** — langkah: 45÷2=22 s1, 22÷2=11 s0, 11÷2=5 s1, 5÷2=2 s1, 2÷2=1 s0, 1÷2=0 s1 → dibaca **dari bawah ke atas** = 101101. **(3)**
+- (b) 101101₂ = 32+0+8+4+0+1 = **45₁₀**. **(2)**
+- (c) Untuk A=1, B=1:
+  - **AND = 1** (semua input 1)
+  - **OR = 1** (ada input 1)
+  - **NOT A = 0** (membalik nilai A)
+  - **XOR = 0** (input sama → 0)
+  *(masing-masing 0,75)*
+
+## Esai 3 (P3) — 8 poin
+- (a) Browser (client) → **DNS** menerjemahkan nama domain menjadi IP address → data dipecah menjadi paket oleh **TCP** → **IP** mengatur alamat pengirim & tujuan → paket melewati ISP & router → disusun ulang oleh TCP di server → server mengirim halaman kembali. **(4)**
+- (b) **SQL** = relasional, tabel baris/kolom, skema rigid (MySQL, PostgreSQL) → cocok saat butuh konsistensi ketat. **NoSQL** = dokumen/key-value/graf, skema fleksibel, skala horizontal (MongoDB, Redis) → cocok saat butuh fleksibilitas & skala besar. **(4)**
+
+## Esai 4 (P5) — 8 poin
+- (a) Tiga dari: **Virus** (menempel file), **Worm** (menyebar sendiri via jaringan), **Trojan** (menyamar, buka backdoor), **Ransomware** (enkripsi + tebusan), **Spyware** (mengintai) + penjelasan. **(3)**
+- (b) **Social engineering** = manipulasi psikologis yang mengeksploitasi kepercayaan/ketakutan/kelalaian manusia, bukan kelemahan teknis. Teknik: **Pretexting** (skenario palsu), **Baiting** (umpan USB/link), **Tailgating** (menyusup fisik). **(3)**
+- (c) **3-2-1** = 3 salinan data, 2 jenis media berbeda, 1 salinan di luar lokasi (offsite). Authenticator app lebih aman karena kode **tidak dikirim lewat jaringan seluler**, sehingga tidak bisa dicuri via SIM-swap/intercept SMS. **(2)**
+
+## Esai 5 (P4 + P6) — 8 poin
+- (a) **THINK** = **T**rue (benar), **H**elpful (bermanfaat), **I**nspiring (menginspirasi), **N**ecessary (perlu), **K**ind (baik). **(2)**
+- (b) **4 hak digital:** akses internet setara · kebebasan berekspresi online · privasi & perlindungan data · keamanan dari ancaman siber.
+  **4 kewajiban digital:** menyaring informasi · menghargai HAKI · menjaga keamanan akun · melaporkan konten ilegal. **(3)**
+- (c) **AI** = bidang yang membuat mesin meniru kecerdasan manusia. **ML** = subset AI yang belajar dari data tanpa diprogram eksplisit.
+  **Industry 4.0** = otomatisasi & IoT, fokus efisiensi. **Industry 5.0** = kolaborasi manusia–mesin (cobot), human-centric & berkelanjutan. **(3)**
+
+---
+
+## 🗺️ Peta Cakupan Soal
+
+| Pertemuan | Esai | PG |
+|---|---|---|
+| P1 Pengenalan | 1 | 1–7 |
+| P2 Biner & Logika | 2 | 8–15 |
+| P3 Internet & Web | 3 | 16–22 |
+| P4 Aplikasi & Etika | 5 | 23–27 |
+| P5 Data & Keamanan | 4 | 28–35 |
+| P6 Inovasi, AI & Sustainability | 5 | 36–40 |
+| P7 Review | (tercakup di semua) | (tercakup di semua) |
+
+## 📊 Cara Menilai Diri Sendiri
+- **PG:** jumlah benar × 1,5 → skor maks 60
+- **Esai:** total poin (maks 40)
+- **Total:** 100. Skor **≥ 75** = siap UTS. Skor **< 60** = ulangi materi di kisi-kisi `dtd-materi-p1-8.md`.
